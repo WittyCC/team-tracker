@@ -1,7 +1,7 @@
 apply plugin: 'java'
 apply plugin: 'application'
 
-archivesBaseName = "team-tracker-2.0"
+archivesBaseName = "team-tracker"
 version = '1.0'
 mainClassName = "App"
 
