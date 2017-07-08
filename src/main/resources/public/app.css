@@ -1,0 +1,28 @@
+body {
+  background: url('http://cdn.wallpapersafari.com/93/62/7Tf6Xm.jpg') no-repeat top right fixed;
+  background-size: 100% 100%;
+  font-family: 'Acme', sans-serif;
+  font-size: 150%;
+  color: yellow;
+}
+
+a {
+  font-size: 20px;
+  color: white;
+}
+
+a:hover {
+  color: cyan;
+}
+
+input, textarea {
+  background-color: black;
+}
+
+li {
+  font-size: 20px;
+}
+
+label {
+  font-size: 20px;
+}

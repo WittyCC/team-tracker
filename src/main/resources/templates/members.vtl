@@ -1,0 +1,7 @@
+<h1>All Members</h1>
+<ul>
+  #foreach ($member in $members)
+    <li><a href="/members/$member.getId()">$member.getMemberName()</a></li>
+  #end
+</ul>
+<a href="/teams/new">Register a New Team</a>

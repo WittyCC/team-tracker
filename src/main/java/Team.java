@@ -35,7 +35,7 @@ public class Team {
   }
 
   public List<Member> getMembers() {
-    return mCDs;
+    return mMembers;
   }
 
   public void addMember(Member member) {
