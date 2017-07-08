@@ -25,28 +25,28 @@ team-tracker
 ├── build.gradle
 ├── .gitignore
 └── src
-    ├── main
-    │     ├── java
-    │     │     ├── App.java
-    │     │     ├── Member.java
-    │     │     ├── Team.java
-    │     │   └── VelocityTemplateEngine.java
-    │     └── resources
-    │             └── templates
-    │                     ├── index.vtl
-    │                     ├── layout.vtl
-    │                     ├── members.vtl
-    │                     ├── success.vtl
-    │                     ├── team-form.vtl
-    │                     ├── team-members-form.vtl
-    │                     ├── team-members-success.vtl
-    │                     ├── team-success.vtl
-    │                     ├── team.vtl
-    │                     └── teams.vtl
-    └── test
-          └── java
-                ├── MemberTest.java
-                └── TeamTest.java
+     ├── main
+     │     ├── java
+     │     │     ├── App.java
+     │     │     ├── Member.java
+     │     │     ├── Team.java
+     │     │     └── VelocityTemplateEngine.java
+     │     └── resources
+     │             └── templates
+     │                     ├── index.vtl
+     │                     ├── layout.vtl
+     │                     ├── members.vtl
+     │                     ├── success.vtl
+     │                     ├── team-form.vtl
+     │                     ├── team-members-form.vtl
+     │                     ├── team-members-success.vtl
+     │                     ├── team-success.vtl
+     │                     ├── team.vtl
+     │                     └── teams.vtl
+     └── test
+           └── java
+                 ├── MemberTest.java
+                 └── TeamTest.java
 ```
 
 ## Setup/Installation Requirements
